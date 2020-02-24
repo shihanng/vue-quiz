@@ -1,7 +1,13 @@
 <template>
   <div id="app">
     <Header />
-    <QuestionBox />
+    <b-container class="bv-example-row">
+        <b-row>
+            <b-col sn="6">
+                <QuestionBox />
+            </b-col>
+        </b-row>
+    </b-container>
   </div>
 </template>
 
