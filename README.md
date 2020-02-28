@@ -1,5 +1,9 @@
 # quiz
 
+Learn Vue.js: https://www.youtube.com/watch?v=4deVCNJq3qc
+
+![Screenshot](./.github/screenshot.png)
+
 ## Project setup
 ```
 npm install
